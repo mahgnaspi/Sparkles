@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+#p2{
+    margin-top: 400px;
+    margin-left: 250px;
+    margin-right: 300px;
+}
+#logo{
+    margin-top: 400px;
+    margin-left: 300px;
+    position: static,relative,absolute e fixed;
+}
+
+.buttom{
+    margin-top: 680px;
+    border: solid, black, 3px;
+    background-color: black;
+}
+.mdl-button{
+    color: powderblue;
+    align-items: center;
+    margin-left: 200px;
+}
+
+.material-icons{
+    color: blueviolet;
+}
+
+.mdl-js-button{
+    margin: center;
+}
+
